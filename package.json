@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "MANU3L",
   "version": "6.2.16",
-  "description": "A multi functional wa bot.",
+  "description": "A multi functional wap bot.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,9 +11,9 @@
     "whatsapp",
     "bot",
     "baileys",
-    "raganork"
+    "manuel"
   ],
-  "author": "Sourav K",
+  "author": "Manuel",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.1",
@@ -41,4 +41,5 @@
     "sqlite3": "^5.1.7",
     "youtube-sr": "^4.3.11"
   }
+
 }
